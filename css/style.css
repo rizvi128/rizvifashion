@@ -12,9 +12,7 @@ body{
     margin-top: 100px;
 
 }
-.navbar{
-    background-color: transparent;
-}
+
 .dude{
     font-size: xx-large;
     font-weight: 600;
@@ -27,12 +25,12 @@ nav img{
    
 }
 .banner img{
-    width: 98%;
-    height: 99%;
-    margin-left: 100px;
+    width: 400px;
+    height: 400px;
+   
 }
-.banner-info{
-    margin-left: 200px;
+.ban-sec{
+    padding: 20px 20px 10px 10px;
 }
 .soil-color{
     color:rgb(255, 132, 31)
